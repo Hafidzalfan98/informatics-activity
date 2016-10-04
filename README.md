@@ -1,0 +1,2 @@
+# informatics-activity
+just repository
